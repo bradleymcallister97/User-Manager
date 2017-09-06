@@ -1,0 +1,17 @@
+{
+  "name": "manageusersredis",
+  "version": "1.0.0",
+  "description": "user managment app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Bradley McAllister",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "redis": "^2.8.0"
+  }
+}
