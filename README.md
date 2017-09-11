@@ -1,9 +1,9 @@
 # User-Manager
 
-## Reason
+## Why
 Teach myself NodeJs, Express and try out docker-compose
 
-## Steps To Run
+## How To Run
 Run with command `docker-compose up`
 
 The app will be running at `localhost:8080`
