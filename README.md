@@ -1,7 +1,7 @@
 # User-Manager
 
 ## Why
-Teach myself NodeJs, Express and try out docker-compose
+Teach myself Node.js, Express and try out docker-compose
 
 ## What
 App that allows you to create, view and delete different users.
